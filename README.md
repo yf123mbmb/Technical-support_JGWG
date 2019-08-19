@@ -1,1 +1,3 @@
-# Technical-support_JGWG
+＃坚果王国技术支持
+
+本应用有任何问题请联系我们邮箱：victorcxc4105@gmail.com
